@@ -1,0 +1,25 @@
+{
+ "edition": "light",
+ "label": "Reel Room Light (beta)",
+ "version": "0.2.0-beta",
+ "built_from": "e1a81aa+uncommitted",
+ "built": "2026-10-14",
+ "styles": [
+  "split-deck",
+  "editorial-ui"
+ ],
+ "compile_styles": [
+  "split-deck",
+  "editorial-ui"
+ ],
+ "keys": {
+  "OPENROUTER_API_KEY": "optional"
+ },
+ "imports": [
+  "faster_whisper",
+  "numpy",
+  "PIL",
+  "cv2",
+  "onnxruntime"
+ ]
+}

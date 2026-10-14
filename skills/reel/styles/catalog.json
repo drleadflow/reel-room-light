@@ -1,0 +1,24 @@
+{
+ "version": 2,
+ "styles": [
+  {
+   "id": "editorial-ui",
+   "name": "Editorial UI",
+   "family": "cutout",
+   "needs_cutout": true,
+   "template": "templates/editorial-ui",
+   "desc": "You, cut out onto a solid colour set that changes on every beat, with huge serif words behind your head. Cuts back to your room for prompt bars, checklists and a countdown. Bold and premium.",
+   "preview": ""
+  },
+  {
+   "id": "split-deck",
+   "name": "Split deck",
+   "family": "split",
+   "needs_cutout": false,
+   "default": true,
+   "template": "templates/split",
+   "desc": "Cards on the top half, you on the bottom half, short captions on the seam. A bold hook card, a name card, checklists that tick as you speak. Built for teaching.",
+   "preview": ""
+  }
+ ]
+}
